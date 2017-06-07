@@ -1,4 +1,4 @@
-Base Skeleton to start your application using Flask-AppBuilder
+How to start your application README
 --------------------------------------------------------------
 
 - Install it::
